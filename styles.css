@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 55px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 40px;
+}
+
+button {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+button:focus {
+    border-color: rgb(191, 191, 34);
+}
+
+.choice-btn {
+    height: 150px;
+    width: 150px;
+}
